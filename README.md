@@ -1,5 +1,7 @@
 # Module 14 Challenge: Interactive Visualizations
 
+Deployed website: `https://dausugam.github.io/belly-button-challenge/`
+
 ## Background
 
 In this assignment, We'll build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogues the microbes that colonise human navels.
